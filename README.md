@@ -16,20 +16,20 @@ O projeto Livre visa construir uma plataforma digital que possa conectar bibliot
   
 2. Produzir mecanismos de barateamento dos livros para que possamos atender públicos de baixa renda que geralmente não são inclusos neste mercado. Alguns dos mecanismos seria: 
 
-  - Promoções baseadas na popularidade.
+    - Promoções baseadas na popularidade.
 
-  - Sorteios para os usuários da plataforma
+    - Sorteios para os usuários da plataforma
 
-  - Doações para entidades parceiras
+    - Doações para entidades parceiras
 
 3. Acompanhamento do status do produto:
 
-  - Pendente
-  - Aprovado
-  - Faturado
-  - Enviado
-  - Finalizado
-  - Cancelado
+    - Pendente
+    - Aprovado
+    - Faturado
+    - Enviado
+    - Finalizado
+    - Cancelado
 
 
 ## 2. Definir as fronteiras do negócio a ser modelado. Definir quem e o quê pode ter interação com o negócio
@@ -50,7 +50,7 @@ O projeto Livre visa construir uma plataforma digital que possa conectar bibliot
   Cadastrar a conta de usuário cliente, fazer um pedido, pagar o livro, receber em casa, avaliar os livros.
 
 2. Vendedores
-  Cadastrar a conta de usuário vendedor, cadastrar os livros, receber pedidos, enviar os livros.
+  Cadastrar a conta de usuário vendedor, cadastrar os livros, receber pedidos, enviar o pedido pro fornecedor.
   
 3. Fornecedores 
   Receber os pedidos, mostrar status do pedido, buscar os livros no local marcado pelos vendedores, enviar os pedidos até o cliente, confirmar que o pedido foi enviado.
