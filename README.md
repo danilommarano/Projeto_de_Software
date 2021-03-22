@@ -1,12 +1,6 @@
 # i-Livro
 
-Nome do grupo: NicAlDa
-Nome do projeto: Livre
-
-Alexandre Petresco - 41904133 <br>
-Danilo Matrangolo Marano - 41915704 <br>
-Nicole Martins dos Santos - 41990277 <br>
-
+Go to [Wiki](https://github.com/danilommarano/iLivro/wiki)
 
 ## 1. Analise o cenário de negócio do tema de projeto escolhido pelo seu grupo
 
